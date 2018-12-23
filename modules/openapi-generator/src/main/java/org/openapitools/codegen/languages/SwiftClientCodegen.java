@@ -77,7 +77,7 @@ public class SwiftClientCodegen extends DefaultCodegen implements CodegenConfig 
 
     @Override
     public String getName() {
-        return "swift2-deprecated";
+        return "swift4";
     }
 
     @Override
